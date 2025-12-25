@@ -144,32 +144,4 @@ This project was developed as part of NVIDIA Deep Learning Institute coursework.
 ## 🙏 Acknowledgments
 
 Built as the capstone project for NVIDIA's "Building RAG Agents with LLMs" course, demonstrating production-ready RAG implementation and evaluation techniques.
-```
 
----
-
-# 2. GitHub Repository Description
-
-**Short version (for the "About" section):**
-```
-Production RAG agent with LangChain, FAISS vector search, and automated LLM-as-a-Judge evaluation. Features agentic workflows, streaming responses via LangServe, and 60%+ quality score on synthetic benchmarks.
-```
-
-**Alternative (more concise):**
-```
-Agentic RAG system using LangChain + FAISS with automated evaluation framework. LangServe API deployment, LLM-as-a-Judge testing, NVIDIA AI endpoints.
-```
-
-**Topics/Tags to add:**
-```
-langchain
-rag
-llm
-faiss
-langserve
-agents
-nvidia
-fastapi
-vector-search
-llm-evaluation
-retrieval-augmented-generation
